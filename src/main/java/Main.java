@@ -17,4 +17,5 @@ public class Main {
             plate.info();
         }
     }
+
 }

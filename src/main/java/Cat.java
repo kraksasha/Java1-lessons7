@@ -36,4 +36,5 @@ public class Cat {
     public void setSatiety(boolean satiety) {
         this.satiety = satiety;
     }
+
 }
